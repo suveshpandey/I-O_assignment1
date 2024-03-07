@@ -1,0 +1,12 @@
+// Ques: How many of these can be a variable name?
+/*
+ 01PWskills         // no
+
+ _FLOAT             // no
+ 
+ int                // no
+
+ FLOAT              //  yes
+
+ You will succeed    // no
+*/
